@@ -32,7 +32,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         
         
     }
-    let items = ["green", "blue"]
+    let items = ["green", "lightblue"]
     
     @IBOutlet weak var myLabel: UILabel!
     
